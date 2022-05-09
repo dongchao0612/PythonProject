@@ -1,0 +1,106 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:楷体;
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@楷体";
+	panose-1:2 1 6 9 6 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:Calibri;}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.5pt;
+	font-family:Calibri;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	vsb_tmp-mode:char;
+	border:none;
+	padding:0cm;
+	font-size:9.0pt;
+	font-family:Calibri;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	vsb_tmp-mode:char;
+	font-size:9.0pt;
+	font-family:Calibri;}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+p
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:宋体;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:10.5pt;
+	font-family:Calibri;
+	font-weight:bold;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:9.0pt;
+	font-family:Calibri;}
+span.CharChar3
+	{font-family:Calibri;}
+span.CharChar
+	{font-family:Calibri;}
+span.CharChar2
+	{font-family:Calibri;}
+span.CharChar4
+	{font-family:Calibri;
+	font-weight:bold;}
+span.CharChar1
+	{font-family:Calibri;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+
+
+    
+ 4月12日下午，上海立信会计金融学院党委副书记王军华一行来访，就高校诚信文化育人联盟2019年年会相关事宜进行对接研讨。副院长刘向锋会见了客人并进行座谈。
+ 
+ 刘向锋对王军华一行的来访表示欢迎，对我校能够承办高校诚信文化育人联盟2019年年会表示感谢,并简要介绍了学校的办学特色、历史沿革、人才培养、招生就业、学生管理、创业教育等工作。他指出，此次年会要体现我校财富管理办学特色和学生工作亮点，同时希望通过此次交流研讨，能够把2019年年会做成集中专家学者智慧的会议、汇集全国高校优秀经验做法的会议，推动高校诚信文化教育和研究向纵深发展的会议。
+ 王军华对高校诚信文化育人联盟的成立背景、联盟章程及下一步建设实施方案进行了介绍，并对2019年年会顺利举办寄予殷切期盼。  
+ 座谈会上，学生处负责人介绍了我校财商教育育人特色及诚信教育工作开展情况，双方就高校诚信文化育人联盟未来发展及筹备年会相关事宜进行了深入的交流和探讨。
+ 当天下午，王军华一行还参观了“第二课堂成绩单”体验教育中心和中科创业学院。学生处主要负责人和部分工作人员陪同座谈和参观。
+ 高校诚信文化育人联盟2017年5月在上海成立，是在中国高等教育学会高等财经教育分会、上海市教卫党委宣传处等单位指导、协调下，由上海立信会计金融学院、山东工商学院、中南财经政法大学、西南财经大学等全国20余所高校共同发起，本着“自愿、交流、合作、共赢”的原则，组成的开放联合体，旨在整合诚信文化教育资源，建立一个集“科学研究、教育教学、文化传播”为一体的高校诚信文化交流、协作、共享平台，推进高校诚信文化育人工作。我校为高校诚信文化育人联盟副理事长单位。
+ （作者：袁斐  部门审核：李新瑾   摄影、编辑：周海磊） 

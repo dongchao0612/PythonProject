@@ -1,0 +1,85 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Times New Roman";}
+h3
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:13.5pt;
+	font-family:宋体;
+	font-weight:bold;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	vsb_tmp-mode:char;
+	border:none;
+	padding:0cm;
+	font-size:9.0pt;
+	font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	vsb_tmp-mode:char;
+	font-size:9.0pt;
+	font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+p
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:9.0pt;
+	font-family:"Times New Roman";}
+span.3Char
+	{font-family:宋体;
+	font-weight:bold;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+
+
+     
+ 4月2日下午，学校召开学生代表座谈会。党委书记白光昭、党委副书记郭金创出席座谈会。
+ 座谈会上，气氛融洽，交流踊跃。学校第一次学生代表大会的九名学生代表交流了对学生会职责使命的认识，结合学代会提案就学校的教学管理、后勤服务、第二课堂活动等多方面工作提出了中肯的意见建议，并针对个人的学习成长经历谈了对“四项素质”和“财商教育”意义的认识。
+ 
+ 白光昭在听取学生代表们发言之后，号召当代大学生要志存高远，走好人生之路，实现精彩人生。他指出，虽然每个人都会有志向，但为一己之私的“志”，和为国家为人民为民族谋利益的“志”差距极大，从革命战争时期到社会主义建设时期，无数优秀的共产党员能舍身取义，是因为强大的精神力量。作为新时代的大学生，只有树立实现中华民族伟大复兴的远大志向，才能够在人生遇到困难挫折时，面对各种考验时，初心不改，勇往直前。
+ 白光昭强调，高校的根本任务在于立德树人，学校党委按照德智体美劳全面发展的育人要求，结合学校实际提出了“四项素质”的人才培养目标。其中，必要的历史知识，既包括人类的发展史、科学史、哲学史也包括党史、国史和各个学科的发展史，这是每一名学生无论未来从事任何职业都需要的，尤其是对于正确的世界观、人生观、价值观的形成有重要的意义。当学生学习历史、了解了中华文明对于世界文明的贡献，国家和民族的自豪感就会油然而生，这种教育的效果不是外界灌输的。同样道理，对于国家独特的文化传统、独特的历史命运、独特的基本国情有了清晰的认识和理解，学生必然会坚定“四个自信”。在谈到健康的身心素质时，他叮嘱，学生应将健康的身心素质作为对家庭和社会责任，终身坚持。现代社会，伴随着经济的快速发展也产生大量的社会问题，加之竞争的巨大压力，人们的身体心理都受到极大的威胁，只有通过健康的生活方式学会自我调节，才能保持身心健康。在谈到创新能力时，他指出青年学生要对人文自然科学各领域学科现有知识保有敬畏之心，但同时还要有批判精神。纵观人类发展历史，创新始终是一个国家、一个民族发展的重要力量，也始终是推动人类社会进步的重要力量。新一轮科技革命和产业变革正在重构全球创新版图、重塑全球经济结构，作为00后的一代要以较强的创新能力肩负起历史赋予的重任，勇做新时代科技创新的排头兵。在谈到宽广的国际视野时，他强调，中国同世界关系正发生深刻变化、随着中国前所未有地走近世界舞台中心，我们也在思考为世界的发展提供中国方案，贡献中国力量，积极推动构建人类命运共同体。这个过程需要有大量的国际视野的人才，这是我们的时代责任和历史使命。
+ 白光昭指出学生工作的经历是求学期间的宝贵财富，他希望广大青年学生在求学期间可以根据自身能力选择合适的学生组织成长锻炼，一方面为广大同学、为学校发展服务，另一方面在完成工作任务的一次次挑战中不断成长，完善自我。学生会作为学校联系学生的桥梁和纽带，已成为学校建设和发展中的一支重要的依靠力量。他希望在学联学生会改革的大背景下，学生会能够加强自身建设，做到全心全意为同学服务并积极参与学校的民主管理中来。
+ 白光昭强调，财富管理在当代社会发展中占有十分重要的地位，学校党委将财富管理作为学校发展方向，将“财商教育”作为学校育人特色，就是要培养青年学生应树立正确的财富观、掌握丰富的财富管理知识，顺应时代发展潮流，满足自身成长需求，他倡议广大青年学生积极投身学校财富管理特色建设，并祝愿广大青年树立积极乐观的心态，充满希望，坚定信念，追求梦想，勇敢拼搏，成就精彩人生。
+ 党委办公室、院长办公室，宣传部，学生工作部，团委等部门负责同志参加座谈。
+ （作者：巩姝言   部门审核：董艳  摄影、编辑：周海磊）

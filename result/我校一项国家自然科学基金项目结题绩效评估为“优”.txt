@@ -1,0 +1,62 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:Calibri;}
+h1
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:24.0pt;
+	font-family:宋体;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	vsb_tmp-mode:char;
+	border:none;
+	padding:0cm;
+	font-size:9.0pt;
+	font-family:Calibri;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	vsb_tmp-mode:char;
+	font-size:9.0pt;
+	font-family:Calibri;}
+span.HeaderChar
+	{font-family:Calibri;}
+span.FooterChar
+	{font-family:Calibri;}
+ /* Page Definitions */
+ @page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+
+
+   
+ 近日，国家自然科学基金委管理科学部公布了2017年结题项目绩效评估结果。我校杨永清副教授主持的《基于风险视角的移动支付用户采纳及创新扩散机理研究》（项目号：71301089）在管理科学部组织的项目绩效评估会上被评为“优”。
+ 据悉，国家自然科学基金委管理科学部每年对结题项目的研究水平、成果质量等进行绩效评估，促进资助项目研究水平与成果质量不断提高，扩大研究成果的显示度与影响力，从而推进学科发展。国家自然科学基金委员会对项目申请实行绩效挂钩，绩效评价为优秀的项目主持人再次申请基金项目，在同等条件下将优先资助。
+ （作者：钟磊   部门审核：孙玉峰  编辑：周海磊）

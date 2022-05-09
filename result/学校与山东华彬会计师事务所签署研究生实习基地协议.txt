@@ -1,0 +1,35 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:等线;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@等线";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:等线;}
+ /* Page Definitions */
+ @page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.Section1
+	{page:Section1;}
+-->
+
+
+ 4月18日，副院长徐世艾与山东华彬会计师事务所负责人蔡安民在烟台虹口大厦举行研究生实习基地协议签约挂牌仪式，研究生处和会计学院相关负责人陪同参加。
+ 仪式上，双方就会计专硕研究生实习、校外导师和就业等方面的合作进行了深入探讨和交流。研究生处和会计学院负责人表示将积极推进双方的合作。山东华彬会计师事务所由我校校友蔡安民创办，其业务涉及审计、资产评估、管理咨询和会计培训等方面。作为我校研究生实习基地，该所能够提供大量的专业实习机会，并推荐经验丰富的实务专家作为校外导师。同时，我校也能够为山东华彬会计师事务所输送大量的高级会计人才，为其业务拓展和未来持续发展提供必要的人才支撑。
+ （作者：吴树畅  编辑：周海磊）

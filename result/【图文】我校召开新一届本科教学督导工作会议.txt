@@ -1,0 +1,59 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:Calibri;}
+p
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:宋体;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:9.0pt;
+	font-family:Calibri;}
+p.vsbcontentstart, li.vsbcontentstart, div.vsbcontentstart
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:宋体;}
+span.BalloonTextChar
+	{font-family:"Times New Roman";}
+ /* Page Definitions */
+ @page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.Section1
+	{page:Section1;}
+-->
+
+
+       
+ 4月2日下午，在行政楼9楼会议室召开新一届本科教学督导工作会议，院长杨同毅，副院长徐世艾、新一届本科教学督导组全体成员、教务处相关领导参加会议，会议由徐世艾主持。
+ 
+ 徐世艾宣读了《关于公布山东工商学院2019-2020年教学督导组成员名单的通知》，本届教学督导组续聘了上一届教学督导组的谭玲玲教授、刘利军副教授等15位督导，增聘了俞宏教授、林云莲副教授等7位督导。
+ 
+ 杨同毅为新一届教学督导组成员颁发了聘书并合影留念，他充分肯定了过去一年来教学督导组为学校教育教学工作做出的成绩与贡献。杨同毅从督导的定位、督导的工作内容和怎样做好督导等3方面做了部署工作。他强调作为一名督导应做好以下几点：一是不断学习先进的教学理念，从教师、教材为中心，转变为学生、学习为中心；二是熟悉教育部和山东省高等教育教学相关政策和精神；三是与广大师生加强平等交流和讨论工作；四是督导要敢于当担、敢于负责；五是教务处为督导组托管单位，为督导组做好服务工作。学校通过教学督导工作，发现问题、反馈问题、沟通问题并及时解决问题，实现教学质量的全闭环控制。他希望督导组能够克服困难，为学校教学质量的提升做出更多贡献。
+ 
+ 督导组组长谭玲玲教授从2018年督导组完成的主要工作、问题与建议、工作思路与打算等3个方面进行了汇报。
+ 教务处处长毛荐其从督教、督学和督管等3个方面介绍了本学期督导的主要工作，详细布置督导听课，试卷验收和抽检工作，毕业论文（设计）和实践教学环节督导，期中、期末教学检查等方面的工作内容。
+ 最后，徐世艾总结指出，督导工作是提高和改善学校教育教学工作质量的重要保障，每位督导都要加强学习，提高政治站位，认真研究督导工作职责，努力提高业务水平，督出秩序，导出质量，教务处要指导、支持、服务督导工作。
+ （作者：王琪  部门审核：毛荐其   摄影：李海兆  编辑：周海磊）

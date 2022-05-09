@@ -1,0 +1,46 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:微软雅黑;
+	panose-1:2 11 5 3 2 2 4 2 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@微软雅黑";}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	vsb_tmp-mode:char;
+	font-size:11.0pt;
+	font-family:"Tahoma",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;
+	font-family:"Calibri",sans-serif;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+
+ 7月29日下午，海信集团高级副总裁陈维强一行来校访问交流，党委委员、副院长刘向锋会见陈维强一行并座谈交流。
+ 
+ 座谈会上，刘向锋代表学校对陈维强一行来访表示热烈欢迎，并简要介绍了学校智慧校园建设近年来取得的成绩和下一步发展思路。他指出，智慧校园建设对提高人才培养、科学研究和服务社会的能力起着至关重要的作用，要切实把智慧校园建设纳入学校“十四五”发展规划中，要认真做好顶层设计，制定时间表、路线图，确保智慧校园建设落地、落实，充分发挥信息化对学校事业发展的创新引领作用。希望进一步深化学校与海信集团的战略合作关系，推动学校智慧校园发展，更好地服务师生员工，为社会培养更多的复合型人才。
+ 陈维强简要介绍了海信集团信息技术领域发展的基本情况，回顾了近期海信集团和学校就智慧校园建设规划设计取得的进展，并对学校“十四五”信息化建设规划给出了公司方面的意见和思路。他表示，海信集团愿意进一步加强与学校的战略合作，建议成立项目团队，建立工作机制，在合作共赢的基础上，切实把学校智慧校园建设落到实处。
+ 双方围绕“十四五”智慧校园建设规划及智慧管理、智慧服务、智慧教学、智慧图书馆等具体项目建设进行了深入的交流。
+ 党委办公室、校长办公室、信息化建设办公室、后勤管理处、基建处主要负责同志参加座谈交流。

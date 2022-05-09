@@ -1,0 +1,7 @@
+﻿    
+近日，《Expert Systems with Applications》《Applied Mathematical Modelling》分别接受了金融学院（财富管理学院）教师谢芳撰写的论文《Multi-mode resource-constrained project scheduling with uncertain activity cost》（被SSCI和SCI双重检索）和《An approximate dynamic programming approach to project scheduling with uncertain resource availabilities》。前者是运筹学和管理科学领域的TOP期刊，2019年的影响因子为5.452；后者是工程领域1区TOP期刊，2019年影响因子为3.633。
+
+
+    
+项目投资和管理是企业日常经营中的重要的活动，而投资项目成败的关键在于是否能在项目开始之前就做出科学、合理的项目规划。2020年以来，新冠疫情在全球爆发，大宗商品价格暴涨暴跌，贸易战和技术战不断升级，诸多突发状况让企业在进行项目投资时面临更多不确定性。为了有效解决此类问题，论文构建了鲁棒和随机调度的混合整数非线性规划模型以及马尔可夫决策过程模型，设计多路径贪婪改进过程和遗传算法相结合的求解算法，并基于rollout的近似动态规划算法，通过项目实例和大规模算例实验来验证算法的效能。研究成果可以为企业的项目投资决策提供科学的参考依据，降低项目投资风险，提升企业的财富管理能力。
+第三次党代会以来，金融学院（财富管理学院）在学校党委的领导下，大力开展“财富管理”相关的学术研究，坚持教学与科研协调发展，积极为建设财商教育特色开放式高水平财经类大学贡献力量。

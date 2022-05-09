@@ -1,0 +1,43 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:Calibri;}
+ /* Page Definitions */
+ @page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+
+
+   
+ 4月14日，我校团委负责同志、学校青年志愿者代表参加了由共青团烟台市委和烟台市青年志愿者协会主办的烟台市青年志愿服务风采展示暨表彰大会。
+ 我校青年志愿者服务中心荣获“烟台市2018年度杰出青年志愿服务组织”的称号，爱心社荣获“2018年度优秀青年志愿组织”称号，法学院陈淳同学获“烟台市2018年度杰出青年志愿者”称号，蔡继蕾、温虹霞、郑煜、陈佳美、陈诗诗、马修元、付新宇等七位同学分别荣获“优秀青年志愿者”称号。
+ 近年来我校青年志愿组织积极响应团市委、市青协的号召，不断提升志愿服务社会化、专业化水平，积极探索志愿服务发展的前进道路，转变服务理念、创新管理方式、开阔思维视野，将信息化载体融入到志愿服务项目中来，不断取得志愿服务事业的进步。此次表彰既是社会各界对我校过去的志愿服务工作的肯定，更是对我校青年志愿者组织继续探索青年志愿工作指导方式和创新举措方式。
+ 会上集中表彰了2018年度为全市志愿服务工作做出贡献的50个优秀志愿者组织和180位优秀青年志愿者。
+ （作者：巩姝言  部门审核：董艳  编辑：周海磊）

@@ -1,0 +1,141 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:Calibri;}
+h2
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:宋体;
+	font-weight:bold;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	vsb_tmp-mode:char;
+	border:none;
+	padding:0cm;
+	font-size:9.0pt;
+	font-family:Calibri;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	vsb_tmp-mode:char;
+	font-size:9.0pt;
+	font-family:Calibri;}
+a:link, span.MsoHyperlink
+	{font-family:"Times New Roman";
+	color:#333333;
+	text-decoration:none;}
+a:visited, span.MsoHyperlinkFollowed
+	{font-family:"Times New Roman";
+	color:#333333;
+	text-decoration:none;}
+strong
+	{font-family:"Times New Roman";}
+em
+	{font-family:"Times New Roman";
+	font-style:normal;}
+p
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+code
+	{font-family:Consolas;
+	color:#C7254E;
+	background:#F9F2F4;}
+dfn
+	{font-family:"Times New Roman";
+	color:white;
+	font-weight:bold;
+	vertical-align:baseline;}
+kbd
+	{font-family:Consolas;
+	color:white;
+	background:#333333;}
+samp
+	{font-family:Consolas;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:9.0pt;
+	font-family:Calibri;}
+span.Char
+	{font-family:Calibri;}
+span.one
+	{font-family:"Times New Roman";
+	color:#003366;}
+span.hover10
+	{font-family:"Times New Roman";
+	background:#EEEEEE;}
+span.hourpm
+	{font-family:"Times New Roman";}
+span.houram
+	{font-family:"Times New Roman";}
+span.Char0
+	{font-family:Calibri;}
+span.old
+	{font-family:"Times New Roman";
+	color:#999999;}
+span.hover11
+	{font-family:"Times New Roman";
+	background:#EEEEEE;}
+span.Char1
+	{font-family:Calibri;}
+span.iconvideo
+	{font-family:"Times New Roman";}
+span.glyphicon2
+	{font-family:"Times New Roman";}
+span.bsharetext
+	{font-family:"Times New Roman";}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+
+
+     
+ 为进一步转变工作作风，解决形式主义、官僚主义突出问题，4月8日，学校召开党的建设工作领导小组（扩大）会议。党委书记白光昭、院长杨同毅出席会议并讲话，校领导马东太、龙希利、徐世艾、刘向锋参加会议。会议由党委副书记郭金创主持。
+ 
+     
+     
+ 学校机关各部门、各党总支（直属党支部）书记和各二级院（部）院长（主任）分别围绕形式主义、官僚主义存在的问题，建言献策，展开了热烈的讨论，收到了良好的效果。
+ 白光昭指出，要坚持以习近平新时代中国特色社会主义思想和党的十九大精神为指导，深入贯彻落实习近平总书记关于坚决整治形式主义、官僚主义系列重要讲话和指示批示精神，把整治形式主义、官僚主义作为一项政治任务，摆在重要位置抓紧抓好、抓出成效。各部门、各单位都要自觉加强党性修养，提高政治站位，强化角色认知，涵养爱校品格，提升工作能力和水平，全心全意为师生服务。要紧密联系实际，把自己摆进去、思想摆进去、职责摆进去，坚决整治形式主义、官僚主义，履职尽责，担当作为，真抓实干，为建设以财富管理为特色的开放式高水平财经类大学而努力奋斗。
+ 白光昭强调，要在狠抓落实上下功夫，主动担当作为，明确职责分工，狠抓工作落实，认真梳理、专题研究，切实解决形式主义、官僚主义突出问题，真正让二级院（部）卸掉包袱，推动工作落实。要在解决问题上下功夫，按照“四个所有”的工作理念，以解决问题为导向，履职尽责，协同联动，创造性开展工作、解决问题。要在协同作战上下功夫，既要各自为战，更要协同作战，在做好本职工作的同时，秉承团结一致、同甘共苦的精神，团结协作，砥砺前行，为学校更好更快发展作出积极贡献。
+ 杨同毅强调，全校上下要进一步提高政治站位，强化政治担当，切实打牢开展集中整治形式主义、官僚主义的思想基础，认识再深化、目标再聚焦、行动再坚决。要创新工作理念，强化以师生为本的意识，以解决问题为目的，以身作则，亲力亲为，优化工作流程，转变工作作风，提高服务能力与水平。要把阶段目标与长远目标有机统一起来，抓住关键少数，抓准突出问题，在坚持中见长效。
+ 郭金创在主持会议时指出，要把整治形式主义、官僚主义作为一项政治任务，进一步提高政治站位，加强作风建设，聚焦“一二三四五”的工作思路，聚焦突出财富管理特色建设，聚焦激发二级学院办学活力，全面排查，认真整改，切切实实解决身边的形式主义、官僚主义等问题。
+ 党的建设工作领导小组成员，机关各部门（直属单位）主要负责同志，各党总支（直属党支部）书记、二级院（部）院长（主任）列席会议。
+ 本次二级院（部）与职能部门“面对面”是学校党建工作的创新，同时也是学校加强作风建设，整治形式主义、官僚主义的重要探索。下一步，学校党委还将针对不作为、慢作为、乱作为突出问题亮利剑、出重拳、出实招，切实激发全校师生干事创业、担当作为的热情，加快推进以财富管理为特色的开放式高水平财经类大学建设进程。
+ （作者：张晓炜、李国伟  摄影：周俊录  编辑：周海磊）
