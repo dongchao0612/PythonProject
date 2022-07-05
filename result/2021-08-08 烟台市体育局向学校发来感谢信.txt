@@ -1,0 +1,34 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;
+	font-family:"Calibri",sans-serif;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+ 8月6日，烟台市体育局向学校发来感谢信，就学校在抗击疫情关键时刻，抽调医护精英，对烟台市体育局所属市直训练的全体教练员、运动员、工作人员上门进行核酸检测工作表示感谢。
+ 
+ 感谢信中提到：“大爱无疆，真情无限，在全市上下和衷共济、全力抗击疫情关键时刻，贵院雪中送炭，无私伸出援助之手，抽调10余名医护精英，对我局所属市直训练的全体教练员、运动员、工作人员上门进行核酸检测工作，增强了全市体育系统打赢疫情防控阻击战信心和力量。”“疫情无情，八方有爱。你们不惧炎热、逆行出征，舍小家为大家，弃小爱聚大爱，视疫情为命令，把防控当责任，是你们的无私援助，充分缓解了我们的燃眉之急，确保我局在最短的时间内安全规范、高质高效的完成了多轮核酸检测任务，用实际行动诠释了新时代高校医务工作者‘敬佑生命、救死扶伤、甘于奉献、大爱无疆’的使命和担当。”
+ 自烟台市7月31日发布发现第一例确诊病例以来，学校党委高度重视，深入贯彻习近平总书记关于疫情防控的重要讲话、重要指示精神，全面落实省委、市委疫情防控工作专题会议精神，从严从紧从实从细抓好疫情防控各项措施，切实守护师生员工身体健康和生命安全。同时安排医护人员积极参与烟台市疫情防控工作，学校广大医护工作者，听从指挥，不畏辛劳，连续奋战，冲锋在前，共筑全民安全屏障，在抗击疫情关键时刻，发出了学校最强音，展现出医护工作者的使命和担当，树立了良好的社会形象，为建设平安烟台做出了应有的贡献。

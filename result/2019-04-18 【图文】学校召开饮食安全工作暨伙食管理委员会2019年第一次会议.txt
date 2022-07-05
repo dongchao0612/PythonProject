@@ -1,0 +1,68 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:Calibri;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	vsb_tmp-mode:char;
+	border:none;
+	padding:0cm;
+	font-size:9.0pt;
+	font-family:Calibri;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	vsb_tmp-mode:char;
+	font-size:9.0pt;
+	font-family:Calibri;}
+p
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:Calibri;}
+span.CharChar1
+	{font-family:Calibri;}
+span.CharChar
+	{font-family:Calibri;}
+ /* Page Definitions */
+ @page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+
+    
+ 4月17日上午，学校安全工作暨伙食管理委员会2019年第一次会议在办公楼十楼会议室召开。会议集体学习了中共中央办公厅、国务院办公厅印发的《地方党政领导干部食品安全责任制规定》、教育部、市场监管总局和卫生健康委联合印发的《学校食品安全与营养健康管理规定》等党和国家食品安全相关政策规定及学校新发布的《山东工商学院食堂管理办法》（2019[33]号），审议并通过了《山东工商学院伙食管理委员会章程》。院长杨同毅出席会议并发表讲话，副院长龙希利主持会议，并就“食安校园”建设作出部署。
+ 
+ 杨同毅在讲话中指出，食品安全关乎每个人、每个家庭，涉及千家万户，涉及每名师生员工。学校饮食安全工作要从四个方面入手：一是要提高政治站位，树牢安全意识。饮食安全是办好人民满意教育的基础，饮食工作者要树牢安全意识，要把食品安全作为政治任务和首要责任；二是要强化责任担当，狠抓责任落实。坚持“谁主管、谁负责，谁主管、谁主责”，“有章程、有制度，抓落实、抓落地”；三是树立“校家情怀”，倾心食品安全。以校为家，要把教职工当作自己的亲人，把学生当作自己的孩子，把食品安全当成自己的事业去做；四是用心研究工作，遵从规律办事。由传统管理向现代化管理转变，要用好“智慧食堂”系统，广泛使用信息化技术，整合收支系统，利用大数据科学管理。
+ 杨同毅强调，饮食安全工作要做到“两个确保”：确保食品安全，确保不发生群体事件。管理部门要做到五点：一是食品原料可追溯，二是操作流程有规范，三是风险点查找与防控措施有预案，四是质量检查评价有标准，五是责任落实有追究。学生管理部门要加强对学生的“三观”教育，引导学生用好自媒体，发现身边的美，讲好山商故事，发现饮食服务的好人好事典型，实现服务育人，形成新型饮食安全工作新格局。
+ 龙希利在主持会议时指出，学校与食堂是责任共同体、命运共同体、荣辱共同体，各部门必须提高认识，进一步加强师生与食堂间的沟通，增进相互理解与信任，共同建设“食安校园”。他要求与会各部门负责同志对会议精神学习消化，融会贯通，分工协作，相互配合。要从小事着手，加强宣传，树立典型，坚持后勤服务育人、管理育人，继续发扬精益求精、雷厉风行的工作作风。龙希利强调，饮食安全是底线，服务育人是目标，要将饮食工作提升到服务育人的高度，精心设计荣誉体系并纳入后勤文化建设，尽快出台服务育人实施方案。
+ 学校伙食管理委员会成员单位负责同志、各食堂经理等40余人参加了会议。
+ （作者：曹慧慧  部门审核：姜宗建  摄影：李海兆   编辑：周海磊）

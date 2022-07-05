@@ -1,0 +1,93 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:等线;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"等线 Light";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@等线";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"\@等线 Light";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:等线;}
+h1
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:宋体;}
+h2
+	{margin-top:13.0pt;
+	margin-right:0cm;
+	margin-bottom:13.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:173%;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"等线 Light";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	vsb_tmp-mode:char;
+	border:none;
+	padding:0cm;
+	font-size:9.0pt;
+	font-family:等线;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	vsb_tmp-mode:char;
+	font-size:9.0pt;
+	font-family:等线;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:9.0pt;
+	font-family:等线;}
+span.Heading2Char
+	{font-family:"等线 Light";
+	font-weight:bold;}
+span.Heading1Char
+	{font-family:宋体;
+	font-weight:bold;}
+span.HeaderChar
+	{font-family:"Times New Roman";}
+span.FooterChar
+	{font-family:"Times New Roman";}
+span.BalloonTextChar
+	{font-family:等线;}
+ /* Page Definitions */
+ @page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.Section1
+	{page:Section1;}
+-->
+
+ 为进一步完善风险防控机制，提升风险防控水平，营造安全稳定的发展环境， 4月4日下午，学校风险防控机制建设工作推进会在办公楼10楼会议室召开。党委副书记郭金创主持会议并讲话。
+ 
+ 郭金创强调，安全稳定是学校事业发展的重要保障，关系到广大师生的切实利益。各部门各单位要进一步提高政治站位，坚持预防为主、关口前移，从源头上防止各类风险隐患发生，把风险防控做实做细做好。他指出，要坚持底线思维，强化忧患意识，主动作为，超前谋划，提升风险防控水平，筑牢风险防控根基。要坚持问题导向，依据相关法律法规，结合学校实际，立足当下、着眼长远，全面梳理风险点，精准制定防控措施，进一步完善风险防控机制建设手册，逐步建立健全科学系统、分类合理、规范专业、职责明确的学校风险防控机制。
+ 党委办公室、院长办公室主任宋主修介绍了学校风险防控机制建设手册编制情况，相关部门负责同志针对风险防控机制建设手册风险清单、防控措施等问题提出了意见建议。
+ 学校风险防控机制建设相关责任部门负责同志参加会议。
+ （作者：张晓炜   摄影：李海兆   编辑：周海磊）

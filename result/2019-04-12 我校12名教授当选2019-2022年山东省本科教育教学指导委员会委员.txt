@@ -1,0 +1,54 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:Calibri;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	vsb_tmp-mode:char;
+	border:none;
+	padding:0cm;
+	font-size:9.0pt;
+	font-family:Calibri;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	vsb_tmp-mode:char;
+	font-size:9.0pt;
+	font-family:Calibri;}
+span.HeaderChar
+	{font-family:"Times New Roman";}
+span.FooterChar
+	{font-family:"Times New Roman";}
+ /* Page Definitions */
+ @page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.Section1
+	{page:Section1;}
+-->
+
+    
+ 近日，山东省教育厅公布了《关于成立2019-2022年山东省本科教育教学指导委员会的通知》（鲁教高字[2019]3号），我校辛波等12名教授分别当选为经济与财政类、金融类、数学类及大学数学课程、统计学类、电子信息类、计算机类及大学计算课程、管理科学与工程类、工商管理类、公共管理类、电子商务与物流管理类、旅游管理类11个专业类的教学指导委员会委员，其中，副主任委员2人，委员10人。
+ 山东省本科教育教学指导委员会属非常设的专家协调性咨询、指导和服务组织，接受省教育厅的领导和委托，对我省本科教育教学和人才培养，提供决策咨询、理论研究、督导评估和指导交流等服务工作，每届任期4年。
+ （作者：任松芹   部门审核：毛荐其  编辑：周海磊）
+   
+ 
+   

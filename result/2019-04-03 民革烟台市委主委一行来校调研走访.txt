@@ -1,0 +1,87 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:Calibri;}
+h1
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:24.0pt;
+	font-family:宋体;}
+a:link, span.MsoHyperlink
+	{font-family:"Times New Roman";
+	color:windowtext;
+	text-decoration:none;}
+a:visited, span.MsoHyperlinkFollowed
+	{font-family:"Times New Roman";
+	color:windowtext;
+	text-decoration:none;}
+strong
+	{font-family:"Times New Roman";}
+em
+	{font-family:"Times New Roman";
+	font-weight:bold;
+	font-style:normal;}
+cite
+	{font-family:"Times New Roman";
+	font-style:normal;}
+code
+	{font-family:"Courier New";}
+dfn
+	{font-family:"Times New Roman";
+	font-style:normal;}
+kbd
+	{font-family:"Courier New";}
+samp
+	{font-family:"Courier New";}
+var
+	{font-family:"Times New Roman";
+	font-style:normal;}
+span.Heading1Char
+	{font-family:Calibri;
+	font-weight:bold;}
+span.column-name18
+	{font-family:"Times New Roman";
+	color:windowtext;}
+span.item-name
+	{font-family:"Times New Roman";}
+span.item-name1
+	{font-family:"Times New Roman";}
+span.pubdate-month
+	{font-family:"Times New Roman";
+	color:white;}
+span.pubdate-day
+	{font-family:"Times New Roman";}
+span.newstitle
+	{font-family:"Times New Roman";}
+span.newsmeta
+	{font-family:"Times New Roman";
+	color:windowtext;}
+ /* Page Definitions */
+ @page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.Section1
+	{page:Section1;}
+-->
+
+   
+ 4月2日下午，山东省政协委员、民革山东省委常委、民革烟台市委主委隋子林，副主委贾志林一行来我校调研走访，党委副书记郭金创会见来宾并座谈。 
+ 郭金创对隋子林主委一行的来访表示热烈欢迎，并代表学校党委对民革市委对学校统战工作和民革支部建设的关心和支持表示感谢。他表示，第三次党代会后，我校确定了建设以财富管理为特色的开放式高水平财经类大学的发展目标。目前，全校上下正在以党建统领、学科引领，力争重点突破，快出成果，形成亮点、形成品牌，推动财富管理特色向高质量发展。我校民主党派成员积极参与学校的特色建设，在立德树人、教书育人和民主监督、社会服务等方面发挥了积极作用。今后，党委统战部要进一步加强同民革市委的沟通和联系，全力支持我校民革支部加强自身建设，为学校发展作出更大的贡献。
+ 隋子林一行在统战部负责人的陪同下参观了中科创业学院。
+ （作者：孙黎丽  部门审核：杨峰丽  编辑：周海磊）

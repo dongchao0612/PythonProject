@@ -1,0 +1,40 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{font-family:"Calibri",sans-serif;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+ 8月7日上午，院长杨同毅深入学校基本建设、改造现场和疫情防控一线，调研指导相关工作。副院长刘冰、刘向锋陪同调研。
+ 
+ 杨同毅走访东校区16号楼、东校区餐厅、西校区大门、西校区教职工活动中心等施工现场，听取相关部门对改造工程的推进计划和安排，实地查看工程现场，详细了解施工进度、工程质量等方面情况。他强调，各相关部门要高度重视、积极配合、主动作为，利用暑期时间，克服各种不利因素，协调好各个环节，确保各项工作抓实抓细，确保做好安全、防暑、疫情防控等工作。
+ 
+ 杨同毅还来到东校区20号隔离楼、校医院实地了解目前隔离点学生情况及相关疫情防控工作，向在岗工作的医护人员表示慰问。他强调目前烟台市疫情防控形势严峻复杂，学校疫情防控压力大，相关单位要做好宣传、排查等工作，对于留校学生、在隔离点的学生要加大关怀力度，尽最大努力提供保障。
+ 党委办公室、院长办公室、学生工作处、后勤管理处、保卫处、校医院等单位负责同志参加调研。
+   
+   

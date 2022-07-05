@@ -1,0 +1,33 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+ 为坚决贯彻落实当前烟台市疫情防控的决策部署，配合属地防控部门加强疫情防控力度，保障全校师生生命健康和身体安全，学校于8月5日、6日开展第二轮全员核酸检测，累计采集核酸样本3325份。
+ 学校党委高度重视此次核酸检测工作，收到相关防疫检测通知后迅速行动、周密部署、精心组织，在首轮核酸检测工作经验的基础上妥善从细从快做好人员与物资调度、场地布置、志愿保障等各项工作，设置科学合理、高效便捷的检测流程，统筹安排人员检测时间，为提高检测效率做好准备。
+ 
+ 5日下午至夜间，6日上午，20余名医务人员在东校区体育馆、西校区体育场开展核酸检测工作，为学校疫情防控工作保驾护航。广大师生员工及校内家属按照检测时间，在现场工作人员引导下，提前在等候区候场，提前准备好核酸检测相关证件，依次在登记区完成信息登记后，进入采样区进行核酸采样。现场秩序井然，快速高效。白天烈日烘烤，气温较高，医护人员克服身体不适，坚守岗位，长时间连续工作，厚重的防护服内的衣服已经全部被汗浸得透湿。张海琳老师等数名医护人员在高强度工作状态下，出现中暑症状，经现场紧急处理后好转。现场师生看到后表示“十分心疼，非常感动”，纷纷给医护人员点赞。

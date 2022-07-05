@@ -1,0 +1,36 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{font-family:"Calibri",sans-serif;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+ 8月7日，莱山区委统筹疫情防控和经济运行工作领导小组（指挥部）办公室向学校发来感谢信，就莱山区全面开展全员核酸检测工作过程中学校组织医务人员踊跃参与到核酸采样工作表达敬意和感谢。
+ 
+ 感谢信中谈到，“2021年8月3日至8月6日，莱山区全面开展全员核酸检测工作。时间紧、任务重，在此抗‘疫’关键时刻，贵院积极响应，组织医务人员踊跃参与到核酸采样工作中，为我区圆满完成全员核酸检测任务做出了积极贡献。”“面对炎炎烈日，贵院医务人员毫无怨言、不惧辛苦，穿着密不透风的防护服在莱山区各采样点不眠不休长时间作战。你们用实际行动充分展现了极高的专业素养和职业操守；用实际行动赢得了人民群众的高度肯定和赞扬；用实际行动诠释了风雨同舟、众志成城，一方有难八方支援的无私精神，彰显了贵院强大的社会责任感。上下同欲者胜，风雨同舟者兴。”
+ 疫情无情人有情。面对本次全市疫情出现的新情况，根据烟台市、莱山区两级指挥部疫情防控工作部署，学校党委第一时间启动应急响应机制，全面加强师生员工疫情防控的宣传、教育引导工作，在圆满完成学校全员核酸检测工作的同时，积极响应莱山区抗疫工作安排，迅速组织、抽调学校医院医护人员投入地方核酸检测工作中。学校医护人员秉持医者仁心，勇毅前行，夜以继日，顽强坚守在疫情防控第一线，以极高的专业素养和职业操守为全民筑牢安全屏障；他们用实际行动体现了新时代医师“临危不惧、义无反顾、勇往直前、舍己救人”的责任担当，赢得了广大群众的高度肯定和赞扬。

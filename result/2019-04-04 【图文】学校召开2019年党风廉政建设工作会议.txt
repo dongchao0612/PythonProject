@@ -1,0 +1,88 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:Calibri;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	vsb_tmp-mode:char;
+	font-size:9.0pt;
+	font-family:Calibri;}
+a:link, span.MsoHyperlink
+	{font-family:"Times New Roman";
+	color:windowtext;
+	text-decoration:none;}
+a:visited, span.MsoHyperlinkFollowed
+	{font-family:"Times New Roman";
+	color:windowtext;
+	text-decoration:none;}
+strong
+	{font-family:"Times New Roman";}
+p
+	{margin-right:0cm;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:宋体;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:9.0pt;
+	font-family:Calibri;}
+span.FooterChar
+	{font-family:Calibri;}
+span.BalloonTextChar
+	{font-family:Calibri;}
+ /* Page Definitions */
+ @page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.Section1
+	{page:Section1;}
+-->
+
+  
+ 4月3日下午，学校2019年党风廉政建设工作会议在学术会堂召开。党委书记白光昭出席会议并讲话，校领导杨同毅、郭金创、马东太、龙希利、徐世艾及副科级以上领导干部近300人参加会议。会议由党委副书记郭金创主持。
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 白光昭就贯彻落实十九届中央纪委三次全会和省纪委十一届四次全会精神，深入推进全面从严治党和党风廉政建设工作，要求各级党组织和广大党员领导干部要从建党以来特别是党的十八大以来的形势变化把握党风廉政建设总体要求，坚决落实主体责任和“一岗双责”。
+ 白光昭指出，要加强政治建设，力戒形式主义、官僚主义。他从政治表现、群众路线、履职担当和作风建设四个方面列举了形式主义、官僚主义的种种表现，他指出，这些表现归根到底是从思想上、行动上没有学懂弄通做实习近平新时代中国特色社会主义思想。各级党组织和广大党员领导干部要结合学校印发的文件，查摆表现，细找差距，彻底整改。 
+ 白光昭强调，要以党的政治建设为统领，贯彻落实好中共中央《关于加强党的政治建设的意见》，从讲政治的高度，保证统一意志统一行动，步调一致向前进，做到党的政治建设与学校中心工作相统一。要着重加强党总支的政治领导力建设，充分发挥党总支主力骨干作用，确保党的教育方针和学校党委的决策部署在二级院部的贯彻落实。
+ 白光昭要求，广大党员领导干部要始终做到忠诚干净担当，自觉贯彻落实党的方针政策和学校党委的决策部署，秉承“四个所有”工作理念，忠诚履职尽责，努力干事创业，把握财富管理特色机遇，勇于突破，善于创新，敢于超越，实现学校跨越式发展。
+ 院长杨同毅传达了十九届中央纪委三次全会和省纪委十一届四次全会精神。中央纪委全会深刻总结了改革开放40年以来纪检监察工作的经验，充分肯定了2018年所取得的成绩，明确提出了以党的政治建设为统领，积极推进全面从严治党总体要求、任务和工作部署，彰显了党中央巩固发展反腐败斗争压倒性胜利的决心。
+ 
+ 纪委书记马东太做了题为《聚焦主责主业 忠诚履职尽责推动学校纪检监察工作高质量发展》的工作报告，报告回顾了学校2018党风廉政建设和反腐败工作，充分肯定了过去一年取得的成绩，客观指出了存在的问题和不足，深刻分析了当前反腐败斗争的形势与要求。对于学校2019年党风廉政建设工作，他要求，一要在强化理论武装上下功夫，坚持用习近平新时代中国特色社会主义思想武装头脑、指导实践、推动工作；二要在加强政治建设上下功夫，不断夯实全面从严治党政治基础；三要在推进作风建设上下功夫，坚持不懈打好作风建设持久战；四要在深化监督上下功夫，切实做到从严、从细、从实；五要在严格执纪上下功夫，精准运用“四种形态”；六要在加强自身建设上下功夫，打造高素质的纪检监察铁军。
+ 
+ 
+ 
+ 党委副书记郭金创在主持会议时强调，各级党组织和广大党员领导干部要认真贯彻落实本次会议精神，密切联系实际，把思想摆进去，把工作摆进去，把职责摆进去，学思践悟、担当作为，不忘初心、牢记使命，以优异成绩迎接新中国成立70周年。
+ （作者：仇玉斌  部门审核：张启全  摄影：李海兆、周海磊  编辑：周海磊）
+      
+      
+     
+     
+   
+   
+ 

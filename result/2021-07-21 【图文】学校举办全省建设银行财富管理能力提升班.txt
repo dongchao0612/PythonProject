@@ -1,0 +1,43 @@
+﻿<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:10.5pt;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	vsb_tmp:15.6pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+
+ 7月21日，全省建设银行财富管理能力提升班开班仪式在东校区财富管理报告厅举行。副院长刘冰出席仪式并致辞。 
+ 刘冰在讲话中介绍了学校的历史沿革、办学规模，并着重介绍学校在财富管理学科建设和财商教育特色建设方面取得的成就。他指出，本次培训班有利于推动学校和地方高质量发展，是学校、企业、社会共赢的重要举措。下一步，双方将发挥各自优势，不断拓宽合作渠道，创新合作形式，在理论应用、金融科技创新等领域互学互鉴，共同为中国金融行业、财富管理行业的创新发展和地方经济的高质量发展做出新的更大的贡献。
+    
+    中国建设银行山东省分行资深副经理范传东对学校近年来的发展及在财商教育特色建设方面取得的成绩表示高度赞赏。他指出，校企双方将以此为契机，不断加强交流互动，深化产学研合作，实现共创共赢的良好局面。
+    仪式上，学员代表进行了发言。全体参训学员、中国建设银行山东省分行、烟台分行领导和员工代表、学校金融学院班子成员、教师及学生代表参加仪式。
+    仪式结束后，金融学院教授刘光彦为大家讲授第一课《证券投资基金市场分析与营销策略》。
+          
+    
+     
+    
+    
+     
+   
+     
+    
